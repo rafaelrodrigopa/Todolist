@@ -46,7 +46,7 @@
                             <h4>Tarefas pendentes</h4>
                             <hr />
 
-                            <form method="POST" action="">
+                            <form method="POST" action="tarefa_controller.php?acao=inserir">
                                 <div class="form-group">
                                     <label for="">Tarefa a ser criada</label>
                                     <input class="form-control" type="text" name="tarefa" placeholder="Exemplo: Comprar pão">
